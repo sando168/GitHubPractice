@@ -15,3 +15,9 @@ In order to un-stage files I don't want to commit
 I will use "git restore --staged <file>" and then
 stage again using the -a option so I can commit 
 this message.
+
+This is an edit to help me practice branching.
+How to create a branch:
+git branch <name>
+How to move to created branch:
+git checkout <branch-name>
