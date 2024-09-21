@@ -1,0 +1,7 @@
+This is my first git file!
+
+At this point I will be staging files:
+- StagingFile1.txt
+- StagingFile2.txt
+- README.md
+And committing them to my repository
