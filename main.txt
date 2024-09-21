@@ -5,3 +5,8 @@ At this point I will be staging files:
 - StagingFile2.txt
 - README.md
 And committing them to my repository
+
+Apparently the -a cmd line option will allow
+me to automatically stage every file that
+gets changed in my local repo. I will be testing
+this now.
