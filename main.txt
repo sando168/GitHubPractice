@@ -19,3 +19,7 @@ this message.
 Created new branch to practice merging. The branching 
 comment from Branching-Practice should soon be 
 added to this file too.
+
+Merge Conflict file was added to create a merge 
+conflict before merging Branching-Practice branch to 
+master branch.
