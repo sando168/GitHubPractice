@@ -10,3 +10,8 @@ Apparently the -a cmd line option will allow
 me to automatically stage every file that
 gets changed in my local repo. I will be testing
 this now.
+
+In order to un-stage files I don't want to commit
+I will use "git restore --staged <file>" and then
+stage again using the -a option so I can commit 
+this message.
