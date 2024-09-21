@@ -23,3 +23,9 @@ added to this file too.
 Merge Conflict file was added to create a merge 
 conflict before merging Branching-Practice branch to 
 master branch.
+
+This is an edit to help me practice branching.
+How to create a branch:
+git branch <name>
+How to move to created branch:
+git checkout <branch-name>
