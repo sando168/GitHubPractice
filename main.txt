@@ -15,3 +15,7 @@ In order to un-stage files I don't want to commit
 I will use "git restore --staged <file>" and then
 stage again using the -a option so I can commit 
 this message.
+
+Created new branch to practice merging. The branching 
+comment from Branching-Practice should soon be 
+added to this file too.
