@@ -33,3 +33,5 @@ git checkout <branch-name>
 Adding this comment to commit a change to this 
 GitHub repo and use the pull command to update my 
 local copy of the repository.
+
+Making another pull commit.
