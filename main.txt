@@ -29,3 +29,7 @@ How to create a branch:
 git branch <name>
 How to move to created branch:
 git checkout <branch-name>
+
+Adding this comment to commit a change to this 
+GitHub repo and use the pull command to update my 
+local copy of the repository.
