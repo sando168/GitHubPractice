@@ -35,3 +35,6 @@ GitHub repo and use the pull command to update my
 local copy of the repository.
 
 Making another pull commit.
+
+Making a change on my local repo to practice pushing 
+changes to my GitHub repo.
